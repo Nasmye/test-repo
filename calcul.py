@@ -1,15 +1,4 @@
-def add(x ,y):
-	x+y
-
-def sub(x ,y):
-	pass
-
-def mult(x ,y):
-	pass
-	
-def div(x ,y):
-	pass
-
-def square(x ,y):
-	pass				
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Sed non risus. Suspendisse lectus tortor, dignissim sit amet,
+ adipiscingec, ultricies sed, dolor. Cras elementum ultrices 
+ diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi
